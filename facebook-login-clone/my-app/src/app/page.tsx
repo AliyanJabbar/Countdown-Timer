@@ -10,7 +10,7 @@ export default function FbLoginClone() {
             facebook
           </h1>
           {/* Text */}
-          <p className="text-[28px] leading-[1.15]">
+          <p className="text-[28px] leading-[1.15] text-[#1c1e21]">
             Facebook helps you connect and share with the people in your life.
           </p>
         </div>
@@ -51,9 +51,9 @@ export default function FbLoginClone() {
             </form>
           </div>
           {/* text below card */}
-          <p className="text-[14px]">
+          <p className="text-[14px] text-[#1c1e21]">
             <span className="font-semibold cursor-pointer hover:underline">
-              Create a Page{" "}
+              Create a Page
             </span>
             for a celebrity, brand or business.
           </p>
